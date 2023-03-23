@@ -2,8 +2,8 @@
 using namespace std;
 
  {
-     string greeting = "Moskalov";
-     string  greeting = "Yevhen";
+     string nazwisko = "Moskalov";
+     string  imie = "Yevhen";
 
    return 0;
 }
